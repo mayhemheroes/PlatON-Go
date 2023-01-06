@@ -1,0 +1,4 @@
+project: platon-go
+target: platon-go-common-json-fuzz
+cmds:
+  - cmd: ./common-json-fuzz.libfuzzer
